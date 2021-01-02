@@ -4,6 +4,8 @@ A todo list app with ReactJS, Redux and Redux Thunk
 
 Demo: https://jovial-elion-8ab006.netlify.app
 
+To run local deployment. Please install [json-server](https://github.com/typicode/json-server 'json-server').
+
 ## Newbie notes
 
 To use Redux-Thunk. You must
